@@ -127,6 +127,13 @@ You can customize and expand this app for your specific use case. The app uses a
 For more information on Streamlit, refer to the official documentation [here](https://docs.streamlit.io/).
 
 ## Acknowledgments
-This app was created with Streamlit and serves as a simple example of how to build an image classifier and deploy it using Streamlit.
-
-
+<img width="1497" alt="image" src="https://github.com/manas86/streamlit-mlflow/assets/30902765/c50dd402-5ccc-4848-a504-798d0b1a095e">
+<img width="1494" alt="image" src="https://github.com/manas86/streamlit-mlflow/assets/30902765/82613acf-9c8c-45c2-93e0-634da4b8ccff">
+<img width="1326" alt="image" src="https://github.com/manas86/streamlit-mlflow/assets/30902765/07eb3982-edfb-4b97-b288-b6660e90a359">
+<img width="1483" alt="image" src="https://github.com/manas86/streamlit-mlflow/assets/30902765/abef9878-00e2-49dd-b098-cd33242814e1">
+<img width="1489" alt="image" src="https://github.com/manas86/streamlit-mlflow/assets/30902765/dfa6adc2-cd35-4da6-8d09-7d9e36594387">
+<img width="1503" alt="image" src="https://github.com/manas86/streamlit-mlflow/assets/30902765/f03c1533-9dd6-491e-80db-232309cb4ae7">
+<img width="1368" alt="image" src="https://github.com/manas86/streamlit-mlflow/assets/30902765/53488825-0e6a-4607-b616-2ba2d788c9a2">
+<img width="1354" alt="image" src="https://github.com/manas86/streamlit-mlflow/assets/30902765/241123c3-f551-4b68-9f73-8caa6cb2c342">
+<img width="1398" alt="image" src="https://github.com/manas86/streamlit-mlflow/assets/30902765/ab3e752f-e199-49bd-ab38-470065d7e82e">
+<img width="1407" alt="image" src="https://github.com/manas86/streamlit-mlflow/assets/30902765/8ba353b6-0924-48d2-b2d9-1c00d58daa02">
