@@ -5,6 +5,11 @@
 ## Introduction
 This project demonstrates how to build a Cat-Dog Classifier using a MobileNet base model, train it, log the metrics and model to MLflow, register the model, and serve it using MLflow's model serving capabilities. 
 
+## Architectur
+
+![image](https://github.com/manas86/streamlit-mlflow/assets/30902765/7b4d0685-e179-41b6-8165-5f543d090c91)
+
+
 ## Dependencies
 - Python 3.9
 - TensorFlow/Keras
